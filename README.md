@@ -1,11 +1,11 @@
-# Data-Driven Solutions for Pharmaceutical Manufacturing & Supply Chain Challenges
+# AI/ML Demonstrations in Pharmaceutical Manufacturing
 
-This document outlines two demonstration projects showcasing the application of Artificial Intelligence (AI), Machine Learning (ML), and data science to address critical priorities within the pharmaceutical manufacturing and supply chain sectors. These projects illustrate how data-driven approaches can enhance resilience, quality, efficiency, and adaptability in this highly regulated industry.
+This document outlines two demonstration projects showcasing the application of Artificial Intelligence (AI)/Machine Learning (ML) to address critical priorities within the pharmaceutical manufacturing and supply chain sectors. These projects illustrate how data-driven approaches can enhance resilience, quality, efficiency, and adaptability in this highly regulated industry.
 
 ## Projects Overview
 
 * [**Predictive Maintenance Mock Project:**](https://github.com/saral1230/AIML_applied_mocks/tree/main/predictive_maintenance_mock) Demonstrates how machine learning can predict equipment failures to minimize downtime and optimize maintenance schedules.
-* **Root Cause Analysis Mock Project:** Illustrates how data science techniques can be used to identify the underlying causes of batch quality failures.
+* [**Root Cause Analysis Mock Project:**](https://github.com/saral1230/AIML_applied_mocks/tree/main/root_cause_analysis_mock) Illustrates how data science techniques can be used to identify the underlying causes of batch quality failures.
 
 ## The Challenges in Pharmaceutical Manufacturing & Supply Chains
 
